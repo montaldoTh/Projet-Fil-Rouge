@@ -1,0 +1,146 @@
+.flex{
+    display: flex;
+}
+/* 1er Paragraphe*/
+#kf{
+    flex-direction: row;
+    position: relative;
+    top: -100px;
+}
+#kingFields {
+    background-image: url(../images/1623411386_840_Retrospective-de-Kings-Field-explorer-les-racines-dElden-Ring-et.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 700px;
+    height: 500px;
+    position:relative;
+    top: 70px;    
+}
+#debut{
+    width: 700px;
+    position:relative;
+    left: 30px;
+    top: 30px;
+}
+/* 2ieme Paragraphe*/
+#demon{
+    position: relative;
+    bottom: 200px
+}
+#DemonSoul{
+    background-image: url(../images/demonsouls.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 1000px;
+    height: 720px;
+    position: relative;
+    top: -130px;
+}
+/* 3ieme Paragraphe*/
+#DS{
+    background-image: url(../images/darksouls.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 9000px;
+    height: 650px;
+    margin: 50px;
+}
+#dark{
+    flex-direction: row;
+    position: relative;
+    bottom: 220px;
+}
+/* 4ieme Paragraphe*/
+
+#soulsandblood{
+    flex-direction: row;
+    position: relative;
+    bottom: 200px;
+}
+#DS2{
+    background-image: url(../images/unnamed.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 600px;
+    height: 300px;
+    margin: 5px;
+}
+#BB{
+    background-image: url(../images/Bloodborne-un-initie-bien-connu-devoile-ces-incroyables-plans.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 600px;
+    height: 300px;
+    margin: 5px;
+}
+#nul, #gothique{
+    position: relative;
+    bottom: 250px;
+}
+/* 5ieme Paragraphe*/
+#Arandiel{
+    background-image: url(../images/ds3_dlc9.jpg) ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 700px;
+    position: relative;
+    top: -165px;
+}
+#masterclass{
+    position: relative;
+    top: -190px;
+}
+/* 6ieme Paragraphe*/
+#jp{
+    flex-direction: row;
+    margin-bottom: 30px;
+    position: relative;
+    bottom: 230px;
+}
+#rythme{
+    background-image: url(../images/maxresdefault.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 3000px;
+    height: 300px;
+}
+#asia{
+    position: relative;
+    top: 50px;
+}
+/* 7ieme Paragraphe*/
+#topoor{
+    background-image: url(../images/demons-souls-screenshot-02-disclaimer-en-30sept20.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 600px;
+    position:relative;
+    top: -160px;
+}
+#source{
+    position: relative;
+    bottom: 190px;
+}
+/* 8ieme Paragraphe*/
+#needit{
+    background-image: url(../images/17-38-screenshot-scaled.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 600px;
+}
+#Elden{
+    position:relative;
+    top: -150px;
+}
+#fevrier{
+    position: relative;
+    bottom: 25px;
+}
+/* Retour en haut de page*/
+#backTop{
+    position: relative;
+    top: 80px;
+}

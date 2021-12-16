@@ -1,0 +1,11 @@
+img{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+li{
+    margin: 20px;
+}
+p{
+    text-align: center;
+}

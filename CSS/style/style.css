@@ -1,0 +1,88 @@
+/* Font supplémentaire */
+@font-face {
+    src:url('../font/OptimusPrinceps.ttf');
+    font-family:'DS';
+}
+@font-face {
+    src:url('../font/PorSiempreGótica.ttf');
+    font-family:'PorSiempre';
+}
+@font-face {
+    src:url('../font/NO.TTF');
+    font-family:'Nosfe';
+}
+@font-face {
+    src:url('../font/RINGM___.TTF');
+    font-family:'Ring';
+}
+/* Police titre */
+h1{
+    font-family:'DS';
+    text-align: center;
+}
+h2{
+    font-family:'DS';
+}
+h4{
+    font-family: 'Ring';
+}
+/* Police paragraphe*/
+p{
+    font-family: 'Nosfe';
+    font-size: 22px;
+}
+/* Marge du site*/
+.marge{
+    margin: 200px 250px;
+}
+/* Apparence menu*/
+.menu{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    background-color: rgb(0, 0, 0);
+    position: fixed;
+    top: 0px;
+    z-index: 1;
+    gap: 500px;
+    
+}
+#logo{
+    background-image: url(../images/logo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 200px;
+    float: left;
+}
+#liens{
+    position:relative;
+    top: 90px;
+    right: 100px; 
+}
+a{
+    font-family: 'DS';
+    color: white;
+    font-size: 25px;
+}
+/* Couleur fond */
+body{
+    background-color: gray;
+    margin: 0;
+}
+/* Police tableau*/
+th{
+    font-family: 'Ring';
+    color: rgb(37, 37, 37);
+}
+thead{  
+    background-color: rgb(32, 31, 31);
+}
+#en-tete{
+    color: white;
+}
+#date{
+    font-size: 30px;
+}

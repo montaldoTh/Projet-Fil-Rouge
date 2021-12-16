@@ -1,0 +1,113 @@
+/*Tableau*/
+table {
+    table-layout: fixed;
+    width: 400px;
+    border-collapse: collapse;
+    border: 3px solid black;
+    
+}
+th, td {
+    padding: 5px;
+    width: 400px;
+    border-collapse: collapse;
+    border: 3px solid black;
+    text-align: center;
+}
+/*platformes*/
+#pc{
+    width: 100px;
+    height: 50px;
+}
+#ps2{
+    width: 280px;
+    height: 90px;
+}
+#psp{
+    width: 280px;
+}
+#ps3{
+    width: 10px;
+    height: 45px;
+}
+#ps3u{
+    width: 280px;
+    height: 70px;
+}
+#ps4{
+    width: 100px;
+    height: 57px;
+}
+#ps4u{
+    width: 170px;
+    height: 80px;
+}
+#ps5{
+    width: 180px;
+    height: 50px; 
+}
+#ps5u{
+    width: 250px;
+    height: 70px; 
+}
+#xbox{
+    width: 270px;
+    height: 140px;
+}
+#x360{
+    width: 130px;
+    height: 70px;
+}
+#x360u{
+    width: 170px;
+    height: 110px;
+}
+#xone{
+    width: 90px;
+    height: 60px; 
+}
+#xbox_xs{
+    width: 90px;
+    height: 60px; 
+}
+#stadia{
+    width: 90px;
+    height: 60px; 
+}
+#vr{
+    width: 200px;
+    height: 120px; 
+}
+#gc{
+    width: 270px;
+    height: 70px;
+}
+#nds{
+    width: 200px;
+    height: 30px; 
+}
+#ds3D{
+    width: 300px;
+    height: 200px; 
+}
+#switch{
+    width: 75px;
+    height: 60px;
+}
+
+/* Jeux*/
+img{
+    width: 160px;
+}
+#kfa2, #kfa{
+    height: 210px;
+}
+
+/*Encre*/
+#back2top{
+    position: relative;
+    top: 40px;
+}
+
+p{
+    text-align: center;
+}
